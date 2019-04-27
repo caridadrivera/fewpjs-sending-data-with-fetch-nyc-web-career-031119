@@ -391,6 +391,13 @@ While `catch()` may not stop _all_ silent errors, it is useful to have as a way
 to gracefully handle unexpected results. We can use it, for instance, to display
 a message in the DOM for a user, rather than leave them with nothing.
 
+
+
+
+
+
+
+
 ## Challenge
 
 It's time to practice writing your own POST request using `fetch()`. In
